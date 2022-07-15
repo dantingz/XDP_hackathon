@@ -1,0 +1,82 @@
+Symbol	Name
+AIFM1	apoptosis-inducing factor, mitochondrion-associated, 1
+AKT1	v-akt murine thymoma viral oncogene homolog 1
+AKT2	v-akt murine thymoma viral oncogene homolog 2
+AKT3	v-akt murine thymoma viral oncogene homolog 3
+APAF1	apoptotic peptidase activating factor 1
+ATM	ATM serine/threonine kinase
+BAD	BCL2-associated agonist of cell death
+BAX	BCL2-associated X protein
+BCL2	B-cell CLL/lymphoma 2
+BCL2L1	BCL2-like 1
+BID	BH3 interacting domain death agonist
+BIRC2	baculoviral IAP repeat containing 2
+BIRC3	baculoviral IAP repeat containing 3
+CAPN1	calpain 1, (mu/I) large subunit
+CAPN2	calpain 2, (m/II) large subunit
+CASP10	caspase 10, apoptosis-related cysteine peptidase
+CASP3	caspase 3, apoptosis-related cysteine peptidase
+CASP6	caspase 6, apoptosis-related cysteine peptidase
+CASP7	caspase 7, apoptosis-related cysteine peptidase
+CASP8	caspase 8, apoptosis-related cysteine peptidase
+CASP9	caspase 9, apoptosis-related cysteine peptidase
+CFLAR	CASP8 and FADD-like apoptosis regulator
+CHUK	conserved helix-loop-helix ubiquitous kinase
+CSF2RB	colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)
+CYCS	cytochrome c, somatic
+DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide
+DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)
+ENDOG	endonuclease G
+FADD	Fas (TNFRSF6)-associated via death domain
+FAS	Fas cell surface death receptor
+FASLG	Fas ligand (TNF superfamily, member 6)
+IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta
+IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma
+IL1A	interleukin 1, alpha
+IL1B	interleukin 1, beta
+IL1R1	interleukin 1 receptor, type I
+IL1RAP	interleukin 1 receptor accessory protein
+IL3	interleukin 3
+IL3RA	interleukin 3 receptor, alpha (low affinity)
+IRAK1	interleukin-1 receptor-associated kinase 1
+IRAK2	interleukin-1 receptor-associated kinase 2
+IRAK3	interleukin-1 receptor-associated kinase 3
+IRAK4	interleukin-1 receptor-associated kinase 4
+MAP3K14	mitogen-activated protein kinase kinase kinase 14
+MYD88	myeloid differentiation primary response 88
+NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)
+NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+NTRK1	neurotrophic tyrosine kinase, receptor, type 1
+PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha
+PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit beta
+PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit delta
+PIK3CG	phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit gamma
+PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (beta)
+PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (gamma)
+PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5
+PPP3CA	protein phosphatase 3, catalytic subunit, alpha isozyme
+PPP3CB	protein phosphatase 3, catalytic subunit, beta isozyme
+PPP3CC	protein phosphatase 3, catalytic subunit, gamma isozyme
+PPP3R1	protein phosphatase 3, regulatory subunit B, alpha
+PPP3R2	protein phosphatase 3, regulatory subunit B, beta
+PRKACA	protein kinase, cAMP-dependent, catalytic, alpha
+PRKACB	protein kinase, cAMP-dependent, catalytic, beta
+PRKACG	protein kinase, cAMP-dependent, catalytic, gamma
+PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha
+PRKAR1B	protein kinase, cAMP-dependent, regulatory, type I, beta
+PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha
+PRKAR2B	protein kinase, cAMP-dependent, regulatory, type II, beta
+RELA	v-rel avian reticuloendotheliosis viral oncogene homolog A
+RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1
+TNF	tumor necrosis factor
+TNFRSF10A	tumor necrosis factor receptor superfamily, member 10a
+TNFRSF10B	tumor necrosis factor receptor superfamily, member 10b
+TNFRSF10C	tumor necrosis factor receptor superfamily, member 10c, decoy without an intracellular domain
+TNFRSF10D	tumor necrosis factor receptor superfamily, member 10d, decoy with truncated death domain
+TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A
+TNFSF10	tumor necrosis factor (ligand) superfamily, member 10
+TP53	tumor protein p53
+TRADD	TNFRSF1A-associated via death domain
+TRAF2	TNF receptor-associated factor 2
