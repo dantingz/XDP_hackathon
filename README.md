@@ -11,3 +11,5 @@ Table 3. ROS related genes(Retrieved from PMID: 27252846) are enriched in the XD
 Table 4. Endosomal (KEGG:hsa04144) and lysosomal (KEGG:hsa04142) related genes are enriched in the XDP cells of fibroblasts, induced neurons, and neural stem cells, as well as in all cell types, as compared with the controls.
 
 Table 5. NEDD4 degrades a apoptotic prevention factor IGF1's receptor (PMID: 22875931) and a stress responding factor HSF1 (PMID: 26503960) via UPS system, causing apoptosis. They are downregulated in induced neurons.
+
+Table 6. Apoptosis related genes(KEGG:hsa04210) are enriched in the XDP cells of fibroblasts, induced neurons, and neural stem cells, as well as in all cell types, as compared with the controls.
