@@ -8,5 +8,5 @@ Table 2. NEDD4-1 pathway genes enriched in XDP induced neurons as compared with 
 
 Table 3. ROS related genes(Retrieved from PMID: 27252846) are enriched in the XDP cells of fibroblasts, induced neurons, and neural stem cells, as well as in all cell types, as compared with the controls.
 
-Table 3. Endosomal (KEGG:hsa04144) and lysosomal (KEGG:hsa04142) related genes are enriched in the XDP cells of fibroblasts, induced neurons, and neural stem cells, as well as in all cell types, as compared with the controls.
+Table 4. Endosomal (KEGG:hsa04144) and lysosomal (KEGG:hsa04142) related genes are enriched in the XDP cells of fibroblasts, induced neurons, and neural stem cells, as well as in all cell types, as compared with the controls.
 
