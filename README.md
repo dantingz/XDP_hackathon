@@ -4,7 +4,7 @@
 
 **XPand Pitch.mp4** is the file of video demo
 
-## Xpand's XDP hackathon Code and Tables
+## Hackathon Code and Tables
 
 **Table 1.** E3 ligases are enriched in the XDP cells of fibroblasts, induced neurons, and neural stem cells, as well as in all cell types, as compared with the controls. All the raw data are retrieved from nference.
 
