@@ -16,7 +16,7 @@ Most of the enriched E3 ligases enriched in both induced neurons and neural stem
 
 **Table 4.** Endosomal (KEGG:hsa04144) and lysosomal (KEGG:hsa04142) related genes are enriched in the XDP cells of fibroblasts, induced neurons, and neural stem cells, as well as in all cell types, as compared with the controls.
 
-**Table 5.** NEDD4 degrades apoptotic prevention gene IGF1's receptor (PMID: 22875931) and stress responding gene HSF1 (PMID: 26503960) via the UPS system, causing apoptosis. They are downregulated in induced neurons.
+**Table 5.** NEDD4 downregulates apoptotic prevention gene IGF1's receptor (PMID: 22875931) and stress responding gene HSF1 (PMID: 26503960) via the UPS system, causing apoptosis. They are both downregulated in induced neurons.
 
 **Table 6.** apoptosis-related genes(KEGG:hsa04210) are enriched in the XDP cells of fibroblasts, induced neurons, and neural stem cells, as well as in all cell types compared with the controls.
 
