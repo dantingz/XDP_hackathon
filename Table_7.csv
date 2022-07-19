@@ -4,5 +4,7 @@ NEDD4 aka NEDD4-1 ,"Rapamycin (sirolimus, everolimus, and temsirolimus)", "Yes (
 ,N-aryl Benzdiimidazole, "Has drugs in the same family approved (fenbendazole, mebendazole, oxibendazole and parbendazole)", Binds Nedd4 in a side chain mediated way that does not alter its conformation or ubiquitination kinetics in vitro. Stimulates the action of Nedd4 towards ubiquitination of trafficking-associated proteins against ¦Á-Synuclein toxicity (PMID: 33176158)
 ,N-aryl Benzimidazole, "Has drugs in the same family approved (fenbendazole, mebendazole, oxibendazole and parbendazole)", promote endosomal trafficking through Rsp5/Nedd4 and thus ‘reset’ vesicle trafficking homeostasis. (PMID: 24158909)
 ,Indole-3-carbinol (I3C), Passed multiple phase II trials, Binds to the purified catalytic HECT domain of NEDD4-1 to inhibit its actions in skin cancer (PMID: 27979631)
-Indirect targets, Candesartan cilexetil, Yes (NDA20838), "Effective on preventing α-synuclein-induced microglial activation in vivo (PMID: PMID: 25969543)"
-,Salbutamol, Yes (NDA021457), "agonist of β2AR, which has ligands that modulate SNCA (gene for α-synuclein) transcription through histone 3 lysine 27 acetylation of its promoter and enhancers. (PMID: 28860381)"
+Indirect targets (α-synuclein related),Salbutamol, Yes (NDA021457), "agonist of β2AR, which has ligands that modulate SNCA (gene for α-synuclein) transcription through histone 3 lysine 27 acetylation of its promoter and enhancers. (PMID: 28860381)"
+,Deferiprone, Yes (NDA021825), "Captures intracellular iron and releases it extracellularly to reduce Alpha-Synuclein Aggregation (PMID: 28623611, PMID: 31912279)"
+,Posiphen, Starting Phase-III trial, "Increases the affinity of IRP1 to the IRE of the 5’UTR of SNCA mRNA, thus preventing ribosome association and translation (PMID: 30906671)"
+,Glycerol Phenylbutyrate, Yes (ND203284), "Increases expression of the ROS response gene DJ-1 to reduces α-synuclein aggregation (PMID: 21372141)"
