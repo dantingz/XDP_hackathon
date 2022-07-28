@@ -1,5 +1,8 @@
 # Xpand's XDP hackathon 
 
+**We won the second place!!** 
+
+
 ## Video demo
 
 **XPand Pitch.mp4** is the file of video demo
